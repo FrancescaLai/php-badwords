@@ -22,9 +22,7 @@
 
     <h2><?php echo $paragrago_vm_18; ?> </h2>
 
-    <h2> Il testo qui sopra è lungo: <?php echo strlen(paragrago_vm_18); ?> caratteri </h2>
-
-    <p></p>
+    <h2> Il testo qui sopra è lungo: <?php echo strlen($paragrago_vm_18); ?> caratteri </h2>
 
 
   </body>
